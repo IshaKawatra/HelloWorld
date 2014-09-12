@@ -1,0 +1,33 @@
+Homework 2 Written Problems
+
+Problem 1) part a. TAB
+
+		   part b. make clean will clear the files/executables and reset them
+				   make shape1 will compile all the objects shape and execute shape1
+				   
+
+		   part c. A .PHONY line will indicate that the target for the makefile is not a file
+
+		   part d. 2 and 4
+
+
+Problem 2) part a. Untracked
+		   part b. Untracked
+		   part c. Unmodified
+		   part d. Modified
+		   part e. Staged, no contents because they were not staged, only README.md was
+		   part f. one change staged, one change modified
+		   part g. "Markdown is easy
+					Markdown is too easy
+					Fancy git move"
+
+Problem 4)  an empty string is correct
+			a single character is correct
+			a string of only characters is correct
+			there must be equal number of round right parentheses and round left parentheses
+			there must be equal number of square right parentheses and square left parentheses
+			if a left parenthesis is to the left of a character, there MUST be a right parenthesis to the right of the character, and vice versa
+			
+			
+
+
