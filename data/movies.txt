@@ -1,0 +1,39 @@
+BEGIN The Hobbit: An Unexpected Journey
+KEYWORD: adventure
+KEYWORD: fantasy
+KEYWORD: Peter Jackson
+PRICE: 5
+END
+BEGIN The Hobbit: The Desolation of Smaug
+KEYWORD: adventure
+KEYWORD: fantasy
+KEYWORD: roarrrrrr
+PRICE: 3
+END
+BEGIN City Lights
+KEYWORD: comedy
+KEYWORD: romance
+KEYWORD: Charlie Chaplin
+KEYWORD: social criticism
+PRICE: 4
+END
+BEGIN Agent Cody Banks
+KEYWORD: comedy
+KEYWORD: action
+KEYWORD: Hilary Duff
+PRICE: 2
+END
+BEGIN Mean Girls
+KEYWORD: comedy
+KEYWORD: highschool
+KEYWORD: romance
+KEYWORD: Lindsey Lohan
+KEYWORD: Tina Fey
+PRICE: 8
+END
+BEGIN Freaky Friday
+KEYWORD: comedy
+KEYWORD: fantasy
+KEYWORD: Lindsey Lohan
+PRICE: 9
+END
